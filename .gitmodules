@@ -10,3 +10,6 @@
 [submodule "public/themes/dream"]
         path = public/themes/dream
         url = https://github.com/g1eny0ung/hugo-theme-dream.git 
+[submodule "themes/zen"]
+	path = themes/zen
+	url = https://github.com/frjo/hugo-theme-zen.git
