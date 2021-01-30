@@ -6,10 +6,10 @@
 	url = https://github.com/lxndrblz/anatole.git
 [submodule "themes/dream"]
         path = themes/dream
-	url = https://github.com/everybodydies/hugo-theme-dream
+	url = https://github.com/everybodydies/hugo-theme-dream/tree/everybodydies-patch-1
 [submodule "public/themes/dream"]
         path = public/themes/dream
-        url = https://github.com/everybodydies/hugo-theme-dream
+        url = https://github.com/everybodydies/hugo-theme-dream/tree/everybodydies-patch-1
 [submodule "themes/zen"]
 	path = themes/zen
 	url = https://github.com/frjo/hugo-theme-zen.git
