@@ -5,7 +5,7 @@ lastmod: 2021-01-30T22:48:31+01:00
 author: Papp Róbert
 # avatar: /img/day-of-the-sleigh.png
 # authorlink: https://author.site
-cover: /img/cover.jpg
+cover: /img/day-of-the-sleigh.png
 categories:
   - category1
 tags:
