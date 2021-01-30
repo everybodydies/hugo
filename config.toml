@@ -3,5 +3,5 @@ languageCode = "en"
 title = "Roboman akcióra kész!"
 theme = "dream"
 [params]
-author = "Nikola Tesla"
-description = "Tesla's Awesome Hugo Site"
+author = "Roboman"
+description = "Interactive fiction játszótér"
