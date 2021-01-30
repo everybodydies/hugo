@@ -1,0 +1,5 @@
+baseurl = "http://localhost:1313"
+languageCode = "en-us"
+name = "Roboman"
+title = "Roboman akcióra kész!"
+theme = "dream"
