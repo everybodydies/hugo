@@ -6,7 +6,7 @@
 	url = https://github.com/lxndrblz/anatole.git
 [submodule "themes/dream"]
         path = themes/dream
-	url = https://github.com/everybodydies/hugo-theme-dream/tree/everybodydies-patch-1
+	url = https://github.com/everybodydies/hugo-theme-dream
 [submodule "public/themes/dream"]
         path = public/themes/dream
         url = https://github.com/everybodydies/hugo-theme-dream
