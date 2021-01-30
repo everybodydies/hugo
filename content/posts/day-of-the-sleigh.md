@@ -21,3 +21,5 @@ draft: false
 <!--more-->
 
 A feladatunk az, hogy kiszabadítsuk a plázából a kis szomszédunkat, de ehhez a Télapó segítségére is szükségünk van, akinek szintén szüksége van a mi segítségünkre, abban, hogy a szánját, ami megrekedt egy helyen, újra használhatóvá tudja tenni. Mindenkinek szüksége van hát mindenkire. A játék elején segítséget is igénybe vehetünk, tippek formájában, és végül is megszabadulni a plázából nem lesz nehéz, inkább ahhoz kell sok fejtörés, ha az összes, játékban elrejtett célt el akarjuk érni, ehhez tárgyak mozgatására, és nem kevés kutakodásra van szükség. Nekem a nem tudom, hanyadik játékra végül sikerült is összehozni, nem volt könnyű, annyit mondhatok.
+
+[https://itch.io/jam/an-adventuron-christmas-jam/rate/864272]:(https://itch.io/jam/an-adventuron-christmas-jam/rate/864272)
