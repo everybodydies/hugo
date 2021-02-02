@@ -1,5 +1,5 @@
 ---
-title: Present Quest
+title: Present Quest - Jelen küldetés
 date: 2021-02-02T20:58:36+01:00
 lastmod: 2021-02-02T20:58:36+01:00
 author: Papp Róbert
@@ -22,6 +22,7 @@ Leírása szerint egy „Visual novel, life simulator, mini escape-room Christma
 
 <!--more-->
 
+![Present Quest - Jelen küldetés](/img/present-quest.png)
 
 
 Már a kezdetek kezdetén gyanakodhatunk, hogy valami nincs teljesen rendben főhősünkkel, mivel némileg segítségre szorul az élet dolgaiban, ezt az érzésünket csak fokozza feledékenysége, amivel a mindennapi élete folyamán szembesül, és amivel kapcsolatban rendszeresen telefonos segítséget kér. Bár, ilyen mértékű mentális problémával együtt is meghackeli egy munkatársa számítógépét, és az zenelejátszó szervert, egy linuxhoz nagyon hasonló rendszeren.
