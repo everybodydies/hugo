@@ -5,7 +5,7 @@ lastmod: 2021-02-02T21:37:25+01:00
 author: Papp Róbert
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: /img/cover.jpg
+cover: /img/deck-the-halls-gieves.png
 categories:
   - category1
 tags:
