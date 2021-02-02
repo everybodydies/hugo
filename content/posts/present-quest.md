@@ -5,7 +5,7 @@ lastmod: 2021-02-02T20:58:36+01:00
 author: Papp Róbert
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: /img/present-quest.jpg
+cover: /img/present-quest.png
 categories:
   - category1
 tags:
