@@ -5,13 +5,13 @@ lastmod: 2021-02-02T20:58:36+01:00
 author: Papp Róbert
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: /img/cover.jpg
+cover: /img/present-quest.jpg
 categories:
   - category1
 tags:
   - tag1
   - tag2
-draft: true
+draft: false
 ---
 
 
