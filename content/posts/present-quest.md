@@ -1,4 +1,27 @@
-Leírása szerint egy „Visual novel, life simulator, mini escape-room Christmas adventure”. A felsorolt jelzőkből valamennyi illik rá, valamennyi nem, ebbe most ne menjünk bele. Azért kezdtem el, mert egy rövid játékot sugallt a leírása, ehhez képest hosszabb, mint az előző, már csak annyiból is, hogy napokból áll, amiket végig kell játszani otthon is és a melóhelyen is. A naptár szerint december 17-én kezdődik a quest, és gyaníthatóan egészen karácsonyig tart. Gyanúnk beigazolódik. Addig minden napra van valami esemény, minden nap tartogat meglepetést.
+---
+title: Present Quest
+date: 2021-02-02T20:58:36+01:00
+lastmod: 2021-02-02T20:58:36+01:00
+author: Papp Róbert
+# avatar: /img/author.jpg
+# authorlink: https://author.site
+cover: /img/cover.jpg
+categories:
+  - category1
+tags:
+  - tag1
+  - tag2
+draft: true
+---
+
+
+
+
+Leírása szerint egy „Visual novel, life simulator, mini escape-room Christmas adventure”. 
+
+<!--more-->
+
+A felsorolt jelzőkből valamennyi illik rá, valamennyi nem, ebbe most ne menjünk bele. Azért kezdtem el, mert egy rövid játékot sugallt a leírása, ehhez képest hosszabb, mint az előző, már csak annyiból is, hogy napokból áll, amiket végig kell játszani otthon is és a melóhelyen is. A naptár szerint december 17-én kezdődik a quest, és gyaníthatóan egészen karácsonyig tart. Gyanúnk beigazolódik. Addig minden napra van valami esemény, minden nap tartogat meglepetést.
 
 Már a kezdetek kezdetén gyanakodhatunk, hogy valami nincs teljesen rendben főhősünkkel, mivel némileg segítségre szorul az élet dolgaiban, ezt az érzésünket csak fokozza feledékenysége, amivel a mindennapi élete folyamán szembesül, és amivel kapcsolatban rendszeresen telefonos segítséget kér. Bár, ilyen mértékű mentális problémával együtt is meghackeli egy munkatársa számítógépét, és az zenelejátszó szervert, egy linuxhoz nagyon hasonló rendszeren.
 
