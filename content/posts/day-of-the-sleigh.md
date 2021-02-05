@@ -6,7 +6,6 @@ author: Papp Róbert
 # avatar: /img/day-of-the-sleigh.png
 # authorlink: https://author.site
 cover: /img/day-of-the-sleigh.png
-images : ["/img/day-of-the-sleigh.png"]
 categories:
   - category1
 tags:
