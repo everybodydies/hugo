@@ -6,6 +6,7 @@ author: Papp Róbert
 # avatar: /img/halloween-night-of-the-misty-manor.png
 # authorlink: https://author.site
 cover: /img/halloween-night-of-the-misty-manor.png
+images: /img/halloween-night-of-the-misty-manor.png
 categories:
   - category1
 tags:
