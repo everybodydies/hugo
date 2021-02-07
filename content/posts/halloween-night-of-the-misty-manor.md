@@ -23,8 +23,6 @@ Ennek a játéknak a története egy nagyon egyszerű, de jó ötleten alapul, p
 
 Én az axeman maskra esküszöm, a masquerada maskkal elvéreztem, a voodoo maskkal senki sem jár jól, mert halálos a viselése, a troll maskot nem próbáltam, de gyanítom, ha azt viseljük egy vámpír a főellenfél. Az axeman esetében egy szellem, de nem is igazán főellenfél, mert nem árt nekünk, csak elküld ide-oda. Vigyázzunk, hogy őrizzük meg végig a lámpást, a gyufát és a gyertyát, mert a vége felé szükség lesz rá. Amúgy van egy pár felesleges holmi is, vagyis extra cucc.
 
-Sajnos, ha egy helyszínt elhagytunk, már nem tudunk visszamenni, így megesik, hogy ha nincs nálunk valami, vagy elrontunk valamit, például rosszkor gyújtjuk meg a lámpást, mehetünk vissza az elejére. Nem nagy élmény újra és újra végigcsinálni, ahogy szobáról szobára küldözgetnek az ajándékért. Az elején, a partiban nem könnyű mindent megszerezni és elindulni, az öregotthonból némi tökölés után mehetünk tovább, az udvarházban viszont már sok feladat egyértelmű.
-
-Összességében elég jó játék, de ha valaki nincs hozzászokva a parancssorhoz, nem a legkönnyebb. A játék üzeneteire mindig figyelni kell, sok mindent a program nem hajlandó elismételni.
+Sajnos, ha egy helyszínt elhagytunk, már nem tudunk visszamenni, így megesik, hogy ha nincs nálunk valami, vagy elrontunk valamit, például rosszkor gyújtjuk meg a lámpást, mehetünk vissza az elejére. Nem nagy élmény újra és újra végigcsinálni, ahogy szobáról szobára küldözgetnek az ajándékért. Az elején, a partiban nem könnyű mindent megszerezni és elindulni, az öregotthonból némi tökölés után mehetünk tovább, az udvarházban viszont már sok feladat egyértelmű. Összességében elég jó játék, de ha valaki nincs hozzászokva a parancssorhoz, nem a legkönnyebb. A játék üzeneteire mindig figyelni kell, sok mindent a program nem hajlandó elismételni.
 
 https://itch.io/jam/adventuron-halloween-jam/rate/509121
