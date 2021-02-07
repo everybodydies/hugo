@@ -7,7 +7,7 @@ author: Papp Róbert
 # authorlink: https://author.site
 cover: /img/deck-the-halls-gieves.png
 categories:
-  - Adventron
+  - Adventuron
 tags:
   - karácsony
 draft: false
