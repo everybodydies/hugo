@@ -7,10 +7,9 @@ author: Papp Róbert
 # authorlink: https://author.site
 cover: /img/halloween-night-of-the-misty-manor.png
 categories:
-  - category1
+  - Adventuron
 tags:
-  - tag1
-  - tag2
+  - halloween
 draft: false
 ---
 
