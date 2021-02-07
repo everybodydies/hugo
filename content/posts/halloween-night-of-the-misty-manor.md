@@ -1,11 +1,11 @@
 ---
-title: Halloween Night of the Misty Manor
+title: Hallowe'en Night of the Misty Manor
 date: 2021-02-07T22:08:51+01:00
 lastmod: 2021-02-07T22:08:51+01:00
 author: Papp Róbert
 # avatar: /img/halloween-night-of-the-misty-manor.png
 # authorlink: https://author.site
-cover: /img/cover.jpg
+cover: /img/halloween-night-of-the-misty-manor.png
 categories:
   - category1
 tags:
@@ -17,6 +17,8 @@ draft: false
 Ennek a játéknak a története egy nagyon egyszerű, de jó ötleten alapul, partizgatunk, partizgatunk halloweenkor, és el kell vinni egy ajándékot valahova (jelen esetben egy idősotthonba), visszafelé viszont a kocsi lerobban, és egy elhagyatott udvarházban találjuk magunkat. Így egyben van a halloweeni partihangulat is, meg a horrorisztikus elemek is a játékban. Sajnos, eléggé macerás végigvinni, a végkifejlet attól is függ, milyen maszkot választunk a partiban.
 
 <!--more-->
+
+![Hallowe'en Night of the Misty Manor](/img/halloween-night-of-the-misty-manor.png)
 
 Én az axeman maskra esküszöm, a masquerada maskkal elvéreztem, a voodoo maskkal senki sem jár jól, mert halálos a viselése, a troll maskot nem próbáltam, de gyanítom, ha azt viseljük egy vámpír a főellenfél. Az axeman esetében egy szellem, de nem is igazán főellenfél, mert nem árt nekünk, csak elküld ide-oda. Vigyázzunk, hogy őrizzük meg végig a lámpást, a gyufát és a gyertyát, mert a vége felé szükség lesz rá. Amúgy van egy pár felesleges holmi is, vagyis extra cucc.
 
