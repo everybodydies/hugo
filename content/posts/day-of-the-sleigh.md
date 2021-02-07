@@ -19,6 +19,7 @@ draft: false
 Úgy tűnik, karácsonyi játékból sohasem elég, ez a darab Edinbourgh-ben játszódik, 1987-ben, főhőse a 17 éves Eilidh, aki egy plázában vigyáz karácsony napjának délelőttjén a Deirdre nevű 2-3 éves szomszédjára, amikor hirtelen elmegy a világítás, és a kisgyerek ezt kihasználva megszökik.
 
 <!--more-->
+![Day of the Sleigh - A szán napja](/img/day-of-the-sleigh-1.png)
 
 A feladatunk az, hogy kiszabadítsuk a plázából a kis szomszédunkat, de ehhez a Télapó segítségére is szükségünk van, akinek szintén szüksége van a mi segítségünkre, abban, hogy a szánját, ami megrekedt egy helyen, újra használhatóvá tudja tenni. Mindenkinek szüksége van hát mindenkire. A játék elején segítséget is igénybe vehetünk, tippek formájában, és végül is megszabadulni a plázából nem lesz nehéz, inkább ahhoz kell sok fejtörés, ha az összes, játékban elrejtett célt el akarjuk érni, ehhez tárgyak mozgatására, és nem kevés kutakodásra van szükség. Nekem a nem tudom, hanyadik játékra végül sikerült is összehozni, nem volt könnyű, annyit mondhatok.
 
