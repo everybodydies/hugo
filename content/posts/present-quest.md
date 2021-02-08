@@ -7,10 +7,9 @@ author: Papp Róbert
 # authorlink: https://author.site
 cover: /img/present-quest.png
 categories:
-  - category1
+  - Adventuron
 tags:
-  - tag1
-  - tag2
+  - karácsony
 draft: false
 ---
 
