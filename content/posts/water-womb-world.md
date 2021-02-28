@@ -5,12 +5,11 @@ lastmod: 2021-02-28T04:24:12+01:00
 author: Author Name
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: /img/cover.jpg
+cover: /img/water-womb-world.png
 categories:
-  - category1
+  - Custom
 tags:
-  - tag1
-  - tag2
+  - horror
 draft: false
 ---
 
