@@ -2,37 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://interactivefiction.eu/categories/</loc>
-    <lastmod>2021-02-28T04:24:12+01:00</lastmod>
-  </url><url>
-    <loc>http://interactivefiction.eu/categories/category1/</loc>
-    <lastmod>2021-02-28T04:24:12+01:00</lastmod>
-  </url><url>
-    <loc>http://interactivefiction.eu/posts/</loc>
-    <lastmod>2021-02-28T04:24:12+01:00</lastmod>
-  </url><url>
-    <loc>http://interactivefiction.eu/</loc>
-    <lastmod>2021-02-28T04:24:12+01:00</lastmod>
-  </url><url>
-    <loc>http://interactivefiction.eu/tags/tag1/</loc>
-    <lastmod>2021-02-28T04:24:12+01:00</lastmod>
-  </url><url>
-    <loc>http://interactivefiction.eu/tags/tag2/</loc>
-    <lastmod>2021-02-28T04:24:12+01:00</lastmod>
-  </url><url>
-    <loc>http://interactivefiction.eu/tags/</loc>
-    <lastmod>2021-02-28T04:24:12+01:00</lastmod>
-  </url><url>
-    <loc>http://interactivefiction.eu/posts/water-womb-world/</loc>
-    <lastmod>2021-02-28T04:24:12+01:00</lastmod>
-  </url><url>
     <loc>http://interactivefiction.eu/categories/adventuron/</loc>
+    <lastmod>2021-02-07T22:08:51+01:00</lastmod>
+  </url><url>
+    <loc>http://interactivefiction.eu/categories/</loc>
     <lastmod>2021-02-07T22:08:51+01:00</lastmod>
   </url><url>
     <loc>http://interactivefiction.eu/posts/halloween-night-of-the-misty-manor/</loc>
     <lastmod>2021-02-07T22:08:51+01:00</lastmod>
   </url><url>
     <loc>http://interactivefiction.eu/tags/halloween/</loc>
+    <lastmod>2021-02-07T22:08:51+01:00</lastmod>
+  </url><url>
+    <loc>http://interactivefiction.eu/posts/</loc>
+    <lastmod>2021-02-07T22:08:51+01:00</lastmod>
+  </url><url>
+    <loc>http://interactivefiction.eu/</loc>
+    <lastmod>2021-02-07T22:08:51+01:00</lastmod>
+  </url><url>
+    <loc>http://interactivefiction.eu/tags/</loc>
     <lastmod>2021-02-07T22:08:51+01:00</lastmod>
   </url><url>
     <loc>http://interactivefiction.eu/posts/deck-the-halls-gieves/</loc>
