@@ -3,5 +3,6 @@ languageCode = "en"
 title = "Roboman akcióra kész!"
 theme = "dream"
 [params]
+headerTitle = "Szöveges kalandjátékok"
 author = "Roboman"
 description = "Interactive fiction játszótér"
