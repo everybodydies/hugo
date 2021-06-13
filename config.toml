@@ -1,7 +1,7 @@
 baseurl = "http://interactivefiction.eu"
 languageCode = "en"
 title = "Roboman akcióra kész!"
-theme = "dream"
+theme = "hugo-cards"
 [params]
 author = "Roboman"
 description = "Interactive fiction játszótér"
