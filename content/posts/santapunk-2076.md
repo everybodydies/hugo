@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: Santapunk 2076
-=======
 title: Santapunk 2076 - Télapunk 2076
->>>>>>> aafa4fea4cb5be1cec1d1869371f7cffe6a99320
 date: 2021-01-31T08:47:56+01:00
 lastmod: 2021-01-31T08:47:56+01:00
 author: Papp Róbert

@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tag1 on My New Hugo Site</title>
-    <link>http://localhost:1313/tags/tag1/</link>
-    <description>Recent content in tag1 on My New Hugo Site</description>
+    <title>tag1 on Roboman akcióra kész!</title>
+    <link>http://interactivefiction.eu/tags/tag1/</link>
+    <description>Recent content in tag1 on Roboman akcióra kész!</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 28 Jan 2021 22:35:45 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 28 Feb 2021 04:24:12 +0100</lastBuildDate><atom:link href="http://interactivefiction.eu/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Thu, 28 Jan 2021 22:35:45 +0100</pubDate>
+      <title>Water Womb World</title>
+      <link>http://interactivefiction.eu/posts/water-womb-world/</link>
+      <pubDate>Sun, 28 Feb 2021 04:24:12 +0100</pubDate>
       
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Cut out summary from your post content here.
-&lt;img src=&#34;http://localhost:1313/feathery-christmas.png&#34; alt=&#34;I wish all my images had alt text 🤦‍♂️&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://interactivefiction.eu/posts/water-womb-world/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
     </item>
     
   </channel>
